@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:temp/acception.dart';
+import 'package:temp/acceptance.dart';
 
 void main() {
   runApp(const MyApp());
